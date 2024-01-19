@@ -1,0 +1,20 @@
+{
+  "name": "uas-dpm",
+  "version": "1.0.0",
+  "description": "FrontEnd : https://snack.expo.dev/@mammarhamdi/muhammad-ammar-hamdi_213510312_5b_uas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "muhammad ammar hamdi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.0",
+    "nodemon": "^3.0.3"
+  }
+}
